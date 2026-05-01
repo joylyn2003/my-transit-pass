@@ -1,7 +1,7 @@
 {
   "name": "Transit Pass",
   "short_name": "Transit",
-  "description": "Peterborough Transit digital pass",
+  "description": "Peterborough Transit digital pass 2",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
