@@ -122,13 +122,15 @@
 
         .bottom-nav {
             background-color: #ffffff;
-            height: 85px;
+            height: 100px;
             flex-shrink: 0;
             display: flex;
             justify-content: space-around;
             align-items: center;
             padding-bottom: env(safe-area-inset-bottom, 20px);
             border-top: 1px solid #f0f0f0;
+            position: relative;
+            z-index: 10;
         }
 
         .nav-item {
